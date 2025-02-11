@@ -28,7 +28,9 @@ int binarytodec()
     }
 
     return decimalNumber;
+    
 }
+
 string toglispazi() //non riuscito
 {
     string frasenormale = "";
@@ -50,6 +52,7 @@ string toglispazi() //non riuscito
 
     return frasenormale;
 }// non riuscito 
+// la funzione divide una frase in 2 parti e le visualizza
 void spezzameta()
 {
     string frase = "La musica è libertà ";
