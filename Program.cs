@@ -66,6 +66,7 @@ bool verificaPalindromo()
     string reversedword = "";
     parola = parola.Trim();
     parola = parola.ToLower();
+    //dfgdfgfdgh 
     for (int i = parola.Length; i > 0; i--)
     {
         reversedword += parola[i - 1];
