@@ -80,6 +80,7 @@ bool verificaPalindromo()
 
     return verifica;
 }
+//verica se la parola è palindroma
 string fraseparolereverse()
 {
     string reversedSentence = "";
