@@ -1,0 +1,15 @@
+C:\Users\mirica.daniel\Desktop\stringhe_prova\stringhe_prova\bin\Debug\net8.0\stringhe_prova.exe
+C:\Users\mirica.daniel\Desktop\stringhe_prova\stringhe_prova\bin\Debug\net8.0\stringhe_prova.deps.json
+C:\Users\mirica.daniel\Desktop\stringhe_prova\stringhe_prova\bin\Debug\net8.0\stringhe_prova.runtimeconfig.json
+C:\Users\mirica.daniel\Desktop\stringhe_prova\stringhe_prova\bin\Debug\net8.0\stringhe_prova.dll
+C:\Users\mirica.daniel\Desktop\stringhe_prova\stringhe_prova\bin\Debug\net8.0\stringhe_prova.pdb
+C:\Users\mirica.daniel\Desktop\stringhe_prova\stringhe_prova\obj\Debug\net8.0\stringhe_prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirica.daniel\Desktop\stringhe_prova\stringhe_prova\obj\Debug\net8.0\stringhe_prova.AssemblyInfoInputs.cache
+C:\Users\mirica.daniel\Desktop\stringhe_prova\stringhe_prova\obj\Debug\net8.0\stringhe_prova.AssemblyInfo.cs
+C:\Users\mirica.daniel\Desktop\stringhe_prova\stringhe_prova\obj\Debug\net8.0\stringhe_prova.csproj.CoreCompileInputs.cache
+C:\Users\mirica.daniel\Desktop\stringhe_prova\stringhe_prova\obj\Debug\net8.0\stringhe_prova.sourcelink.json
+C:\Users\mirica.daniel\Desktop\stringhe_prova\stringhe_prova\obj\Debug\net8.0\stringhe_prova.dll
+C:\Users\mirica.daniel\Desktop\stringhe_prova\stringhe_prova\obj\Debug\net8.0\refint\stringhe_prova.dll
+C:\Users\mirica.daniel\Desktop\stringhe_prova\stringhe_prova\obj\Debug\net8.0\stringhe_prova.pdb
+C:\Users\mirica.daniel\Desktop\stringhe_prova\stringhe_prova\obj\Debug\net8.0\stringhe_prova.genruntimeconfig.cache
+C:\Users\mirica.daniel\Desktop\stringhe_prova\stringhe_prova\obj\Debug\net8.0\ref\stringhe_prova.dll

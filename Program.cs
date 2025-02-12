@@ -40,19 +40,20 @@ string toglispazi() //non riuscito
     for (int i = 0; i < fraserifatta.Length; i++)
     {
         //fraserifatta[i] = fraserifatta[i].Trim();
-        //frasenormale+= fraserifatta[i].Trim() + " ";
-        if (fraserifatta[i] == " ")
+        //frasenormale+= fraserifatta[i].Trim() + " ";   
+        if (fraserifatta[i] != "")
         {
-            fraserifatta[i] = "";
+            frasenormale += fraserifatta[i] + " ";
 
         }
-        else { frasenormale += fraserifatta[i] + " "; }
+        
 
     }
 
     return frasenormale;
 }// non riuscito 
 // la funzione divide una frase in 2 parti e le visualizza
+
 void spezzameta()
 {
     string frase = "La musica è libertà ";
@@ -69,7 +70,6 @@ bool verificaPalindromo()
     string reversedword = "";
     parola = parola.Trim();
     parola = parola.ToLower();
-    //dfgdfgfdgh 
     for (int i = parola.Length; i > 0; i--)
     {
         reversedword += parola[i - 1];
